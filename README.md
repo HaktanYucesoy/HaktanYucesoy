@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haktan</h1>
 <h3 align="center">Curious Full Stack Developer</h3>
 
-<strong>No need for many words, the visible village needs no guide 😂</strong>
+<strong>No need for many words, A picture is worth a thousand words 😂</strong>
 <strong>I just love trying to write clean and effective code.</strong>
 <strong>Everyone should keep going with own dreams and desires. So work hard!</strong>
 <div align="center">
