@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haktan</h1>
+<h1 align="center">Hi👋 Fellas!I'm Haktan </h1>
 <h3 align="center">Curious Full Stack Developer</h3>
 
 <strong>No need for many words, A picture is worth a thousand words 😂</strong>
