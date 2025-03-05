@@ -7,6 +7,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/MBNgMB6miNesE/giphy.gif" alt="Centered GIF">
 </div>
+<br/>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1kJ5e5NTn43gdz-JnAruXQDPWNnhjDHya/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="View My CV" />
+  </a>
+</div>
 
 ##
 
